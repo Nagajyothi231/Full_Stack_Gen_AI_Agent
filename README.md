@@ -1,1 +1,1 @@
-# Full_Stack_Gen_AI_Agent
+# Marketing_AI_Assistant
